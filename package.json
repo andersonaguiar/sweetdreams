@@ -1,0 +1,15 @@
+{
+  "name": "sweedreams",
+  "description": "Sweet Dreams with Mocha, Chai and Nightmare.js",
+  "version": "0.0.1",
+  "title": "Sweet Dreams with Mocha, Chai and Nightmare.js",
+  "devDependencies": {
+    "chai": "^2.2.0",
+    "nightmare": "^1.8.0"
+  },
+  "engines": {
+    "node": "*",
+    "npm": "*"
+  },
+  "dependencies": {}
+}
